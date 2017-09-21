@@ -4,7 +4,9 @@ Spyder Editor
 
 This is a temporary script file.
 """
+# Assume s is a string of lower case characters.
 
+# The program that prints the longest substring of s in which the letters occur in alphabetical order.
 
 #s = 'azcbobobegghakl'
 #s = 'abcbcd'
